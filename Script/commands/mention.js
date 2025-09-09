@@ -2,7 +2,7 @@ module.exports.config = {
  name: "mention",
  version: "1.0.0",
  hasPermssion: 2,
- credits: "𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐈𝐬𝐥𝐚𝐦",
+ credits: "রাব্বি",
  description: "একবার করে বারবার কাউকে মেনশন করার কমান্ড",
  commandCategory: "group",
  usages: "/mention @mention [count]",
@@ -25,7 +25,7 @@ module.exports.run = async ({ api, event, args }) => {
  for (let i = 0; i < repeatCount; i++) {
  try {
  await api.sendMessage({
- body: `${mentionName}\n\nচিপা থেকে বের হও🐸🔪`,
+ body: `${mentionName}\n\nচিপা থেকে বের হও কলে আয় চালু নাহলে কিক মারবো কিন্তু 🤬🐸🔪`,
  mentions: [{ tag: mentionName, id: mentionID }]
  }, threadID);
  
