@@ -2,7 +2,7 @@ module.exports.config = {
   name: "hot",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "SHAHADAT SAHU",
+  credits: "RABBI VAI",
   description: "hot video",
   commandCategory: "admin",
   usages: "horny + hot + sex vedio",
