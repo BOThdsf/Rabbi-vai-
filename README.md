@@ -13,7 +13,7 @@ Assalamualaikum Everyone!
 
 <p align="center" style="animation: glow 2s infinite alternate; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   <span style="font-size: 24px; font-weight: bold;">RABBi CHAT BOT</span><br>
-  <span> Develop By SHAHADAT SAHU</span>
+  <span> Develop By RABBI VAI </span>
 </p>
 
 
