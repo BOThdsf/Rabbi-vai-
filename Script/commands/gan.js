@@ -7,7 +7,7 @@ module.exports.config = {
  name: "gan",
  version: "1.0.0",
  hasPermission: 0,
- credits: "Shahadat Islam",
+ credits: "RABBI VAI",
  description: "Play random song with prefix command",
  commandCategory: "music",
  usages: "[prefix]gan",
