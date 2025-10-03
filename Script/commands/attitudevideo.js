@@ -2,7 +2,7 @@ module.exports.config = {
  name: "attitude",
  version: "1.0.0",
  hasPermssion: 0,
- credits: "𝐒𝐡𝐚𝐨𝐧 𝐀𝐡𝐞𝐦𝐞𝐝",
+ credits: "RABBI VAI",
  description: "attitude video",
  commandCategory: "Hình ảnh",
  usages: "atdvdo",
